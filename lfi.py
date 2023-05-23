@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 
-import os,sys,requests
+import requests
 
 
 url = "http://inclusiveness/secret_information/?lang=" # Include the URL of the suspected LFI page up to the equals sign.

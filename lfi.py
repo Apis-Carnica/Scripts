@@ -35,6 +35,7 @@ files = [
     home+".bash_history",
     home+".mysql_history",
     home+".my.cnf",
+    "/etc/vsftpd.conf",
     "/proc/sched_debug", # Can be used to see what processes the machine is running
     "/proc/mounts",
     "/proc/net/arp",
